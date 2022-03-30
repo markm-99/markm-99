@@ -1,4 +1,4 @@
-### What's up! My name is Mark Mathew. Welcome to My Github! 👋
+### What's up! My name is Mark. Welcome to My Github! 👋
 
 <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/>
 
