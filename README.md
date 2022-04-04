@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/>
 ### What's up! My name is Mark. Welcome to My Github Portfolio! 👋
+<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/>
 <!--
 **markm-99/markm-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
