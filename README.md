@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
   * 🎓 Computer Science graduate from San Jose State University
-  * 😀 Passionate Front-end Web Developer. Skilled in Python, JavaScript, and SQL 
+  * 😀 Passionate Full-Stack Web Developer. Skilled in Python, JavaScript, and SQL 
   * 🎵 Music enthusiast & Philz Coffee Connoisseur ☕️
   * 🌱 I’m currently learning React and the MERN stack. 
   * 💻 Let's work on a MERN stack project together! Connect with me on Linkedin: https://www.linkedin.com/in/mark-mathew/
