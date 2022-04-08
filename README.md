@@ -12,7 +12,7 @@
   * 💻 Let's work on a MERN stack project together! Connect with me on Linkedin: https://www.linkedin.com/in/mark-mathew/
 
 [![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markm-99&show_icons=true&theme=merko)](https://www.github.com/markm-99)
-### Vistor Count
+### Visitor Count
 [![Vistors](https://profile-counter.glitch.me/markm-99/count.svg)](https://profile-counter.glitch.me/markm-99/count.svg)
 <a href="https://github.com/markm-99">
 </a>
