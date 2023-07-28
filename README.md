@@ -1,12 +1,13 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mark-Mathew🌇&fontSize=60)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mark_Mathew🌇&fontSize=60)
 <!-- <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/> -->
 ### What's up! My name is Mark. Welcome to My Github Portfolio! 👋
 <!-- ### What's up! My name is Mark. Welcome to My Github Portfolio! 👋 -->
 
 
 ### 👨‍💻 About Me
-  * 🎓 Computer Science graduate from San Jose State University
-  * 😀 Passionate Full-Stack Web Developer. Skilled in Python, JavaScript, and SQL 
+  * 🎓 Computer Science graduate from San Jose State University (4 years of industry experience)
+  * 😀 Passionate Web Developer. Skilled in JavaScript, Python, SQL (2 years experience)
+  * 👨‍💻 Experienced Product Manager (2 years experience)
   * 🎵 Music enthusiast & Philz Coffee Connoisseur ☕️
   * 🌱 I’m currently learning React and the MERN stack. 
   * 💻 Let's work on a MERN stack project together! Connect with me on Linkedin: https://www.linkedin.com/in/mark-mathew/
