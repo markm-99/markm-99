@@ -1,7 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mark_Mathew🌇&fontSize=60)
 <!-- <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="480" height="259"/> -->
 ### What's up! My name is Mark. Welcome to My Github Portfolio! 👋
-<!-- ### What's up! My name is Mark. Welcome to My Github Portfolio! 👋 -->
+<!-- ### Welcome to My Github Portfolio! 👋 -->
 
 
 ### 👨‍💻 About Me
